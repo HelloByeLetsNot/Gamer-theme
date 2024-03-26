@@ -1,6 +1,5 @@
 Gamer Website
-![Website Preview](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp38LJP2IpHTzS4nLUzC20luTy5xl603HoWxd1Z_T4uqcLyvEcl-CoyS1lHiyWf3Ceyh-WvmFOtyMeEWdZ5_9GVRSzik8IhM7VwKS4sibKWjMOB6EFgykam2JiXNdV9qBYxQI5JI7bBCAmGvi2eLkM4iof-h5pXeHCHktrSfYpXNJL75z
-
+![Website Preview](gamertheme.png)
 
 Welcome to our gamer website! This repository contains all the code and resources for our gaming community's website.
 
