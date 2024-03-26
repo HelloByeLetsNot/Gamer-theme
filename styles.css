@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1e1e1e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.game-container {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    white-space: nowrap; /* Prevent wrapping */
+}
+
+.game {
+    display: inline-block;
+    margin: 20px;
+    flex: 0 0 auto; /* Prevent flex items from growing */
+}
+
+.game img {
+    width: 200px;
+    height: 200px;
+    border: 5px solid #fff;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #1e1e1e;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.blog {
+    text-align: center; /* Center align the content */
+    margin: 0 auto; /* Center the section horizontally */
+    max-width: 800px; /* Set maximum width for better readability */
+}
+
+.blog-posts {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align the posts vertically */
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Post 1",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "date": "2024-03-25"
+    },
+    {
+        "title": "Post 2",
+        "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "date": "2024-03-24"
+    },
+    {
+        "title": "Post 3",
+        "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "date": "2024-03-23"
+    }
+]
